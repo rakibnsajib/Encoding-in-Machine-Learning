@@ -5,6 +5,8 @@ Encoding is the process of converting data from one form to another. In machine 
 
 ### Types of Encoding
 There are three types of encoding techniques:
-1. Nominal Encoding
+1. Label Encoding
 2. One-Hot Encoding
 3. Ordinal Encoding
+
+
